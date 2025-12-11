@@ -2,6 +2,7 @@ backend:
   name: github
   repo: robo-world-rb/robo-world-rb.github.io
   branch: main
+  site_domain: admirable-panda-50ec94.netlify.app
 
 media_folder: "assets/images/uploads"
 public_folder: "/assets/images/uploads"
