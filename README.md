@@ -25,8 +25,8 @@ If you get an authentication error, you may need to register an OAuth applicatio
 1.  Go to your GitHub Settings > Developer settings > OAuth Apps.
 2.  Register a new application.
 3.  Set the **Homepage URL** to `https://robo-world-rb.github.io`.
-4.  Set the **Authorization callback URL** to `https://robo-world-rb.github.io/admin/`.
-5.  *Note: Since this is a static site on GitHub Pages without an external backend server, you typically need an external authentication service (like Netlify Identity) or a proxy. If you are hosting this purely on GitHub Pages, look into [Decap CMS on GitHub Pages guide](https://decapcms.org/docs/github-backend/).*
+4.  Set the **Authorization callback URL** to `https://api.netlify.com/auth/done`.
+5.  *Note: This specific URL is required because we are using Netlify to handle the secure login handshake.*
 
 ## 🛠 Local Development
 
