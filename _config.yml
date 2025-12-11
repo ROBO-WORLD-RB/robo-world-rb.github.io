@@ -1,0 +1,8 @@
+title: "Robo World"
+description: "Exploring the future of AI and Robotics"
+baseurl: ""
+url: "https://robo-world-rb.github.io"
+markdown: kramdown
+theme: null
+plugins: []
+exclude: [Gemfile, Gemfile.lock, node_modules, vendor]
