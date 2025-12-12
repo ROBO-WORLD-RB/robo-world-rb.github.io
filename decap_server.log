@@ -1,0 +1,6 @@
+npm warn exec The following package was not found and will be installed: decap-server@3.4.0
+npm warn deprecated @hapi/formula@2.0.0: Moved to 'npm install @sideway/formula'
+npm warn deprecated @hapi/address@4.1.0: Moved to 'npm install @sideway/address'
+npm warn deprecated @hapi/joi@17.1.1: Switch to 'npm install joi'
+[32minfo[39m: Decap CMS File System Proxy Server configured with /app
+[32minfo[39m: Decap CMS Proxy Server listening on port 8081
